@@ -27,7 +27,7 @@ export default function RootLayout({
           </main>
           
           <footer className="text-center mt-12 text-gray-600">
-            <p>NOME - RM XXX / NOME - RM XXX / NOME - RM XXX © 2025 Pokémon TCG Explorer</p>
+            <p>Anabelle - RM 564526 / Isis  - RM 561497 / Ana - RM 561957 © 2025 Pokémon TCG Explorer</p>
           </footer>
         </div>
       </body>
